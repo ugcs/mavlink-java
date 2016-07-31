@@ -10,6 +10,8 @@ MAVLink Java tool used by the [UgCS ground control software](https://www.ugcs.co
 
 Unsigned integers are represented by the wider signed integer types (except ulong64_t).
 
+MAVLink type | Java type
+-------------|----------
 uint8_t  | short
 uint16_t | int
 uint32_t | long
